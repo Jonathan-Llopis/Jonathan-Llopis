@@ -5,7 +5,7 @@
 
 ## Contacto
 - **Email**: jonathan.llopis.linares@gmail.com
-- **LinkedIn**: linkedin.com/in/jonathanllopislinares/
+- **LinkedIn**:[ linkedin.com/in/jonathanllopislinares/](https://www.linkedin.com/in/jonathanllopislinares/)
 - **GitHub**: github.com/Jonathan-Llopis
 
 ¡Gracias por visitar mi perfil!
