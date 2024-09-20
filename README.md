@@ -1,7 +1,7 @@
 # Jonathan Llopis
 
 ## Sobre mí
-¡Hola! Soy Jonathan Llopis, estudiante de segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM). Apasionado por la tecnología y el desarrollo de software.
+¡Hola! Soy Jonathan Llopis, estudiante de segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM). Iniciado en el desarrollo de software.
 
 ## Contacto
 - **Email**: jonathan.llopis.linares@gmail.com
