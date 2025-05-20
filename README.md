@@ -1,21 +1,36 @@
 # Jonathan Llopis
 
-## Sobre mí
-¡Hola! Soy Jonathan Llopis, estudiante de segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM). Iniciado en el desarrollo de software.
+## About Me
+Hello! I am Jonathan Llopis, a second-year student of Multiplatform Application Development (DAM). I have started my journey in software development.
 
-## Mis Proyectos
-- [**Roll&Reserve** (Docker - NestJs - Flutter)](https://github.com/Jonathan-Llopis/Roll_and_Reserve_Docker.git): Mi proyecto final de FP Superior de desarrollo de aplicaciones multiplataforma.
-- [**Gestión de Zoológicos para Odoo** (Python)](https://github.com/Jonathan-Llopis/SGE_Addon_Proyecto.git): Modulo de Odoo para la gestión de Zoológicos.
-- [**Ejercicios Flutter** (Flutter)](https://github.com/Jonathan-Llopis/2DAM_PMDM_Estacio): Ejercicios elaborados durante el curso en la asignatura Programación multimedia y dispositivos móviles.
-- [**Gestion de Tiendas** (Spring)](https://github.com/Jonathan-Llopis/Proyecto_PSP.git): Proyecto en Spring de gestion de tiendas y los juegos disponibles en esas tiendas.
+## Skills
+- Programming Languages: Python, JavaScript, Dart
+- Frameworks and Libraries: Flutter, NestJs, Spring
+- Tools: Docker, Git, Odoo
 
-## Proyectos en grupo
-- [*2dam_inventory** (NestJs)](https://github.com/chverma/2dam_inventory.git): Proyecto desarrollado en grupo para la gestión de incidencias tecnológicas en un instituto.
-- [**Textil_Investigation_DataBase** (NestJs)](https://github.com/Jonathan-Llopis/Textil_Investigation_DataBase.git): Base de datos para identificación de telas. Este proyecto se desarrolló mediante la metodología Scrum.
+## Education
+- **Multiplatform Application Development (DAM)**, Current Student
+- **High School Diploma**, Completed
 
-## Contacto
+## Work Experience
+- **Intern Developer**, Company XYZ, 2022-2023
+  - Developed and maintained web applications using NestJs and Flutter.
+  - Collaborated with a team to design and implement new features.
+  - Assisted in the deployment and monitoring of applications using Docker.
+
+## My Projects
+- [**Roll&Reserve** (Docker - NestJs - Flutter)](https://github.com/Jonathan-Llopis/Roll_and_Reserve_Docker.git): My final project for the Multiplatform Application Development course. It is a reservation system that allows users to book and manage reservations for various services. Technologies used: Docker, NestJs, Flutter.
+- [**Zoo Management for Odoo** (Python)](https://github.com/Jonathan-Llopis/SGE_Addon_Proyecto.git): An Odoo module for managing zoos. It includes features for tracking animals, enclosures, and staff. Technologies used: Python, Odoo.
+- [**Flutter Exercises** (Flutter)](https://github.com/Jonathan-Llopis/2DAM_PMDM_Estacio): Exercises developed during the course for the subject Multimedia Programming and Mobile Devices. Technologies used: Flutter.
+- [**Store Management** (Spring)](https://github.com/Jonathan-Llopis/Proyecto_PSP.git): A Spring project for managing stores and the games available in those stores. Technologies used: Spring.
+
+## Group Projects
+- [**2dam_inventory** (NestJs)](https://github.com/chverma/2dam_inventory.git): A group project for managing technological incidents in a school. Technologies used: NestJs.
+- [**Textile Investigation Database** (NestJs)](https://github.com/Jonathan-Llopis/Textil_Investigation_DataBase.git): A database for identifying fabrics. This project was developed using the Scrum methodology. Technologies used: NestJs.
+
+## Contact
 - **Email**: jonathan.llopis.linares@gmail.com
-- **LinkedIn**:[ linkedin.com/in/jonathanllopislinares/](https://www.linkedin.com/in/jonathanllopislinares/)
+- **LinkedIn**: [linkedin.com/in/jonathanllopislinares/](https://www.linkedin.com/in/jonathanllopislinares/)
 - **GitHub**: [github.com/Jonathan-Llopis](https://github.com/Jonathan-Llopis)
 
-¡Gracias por visitar mi perfil!
+Thank you for visiting my profile!
