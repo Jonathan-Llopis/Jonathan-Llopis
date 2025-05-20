@@ -4,7 +4,7 @@
 Hello! I am Jonathan Llopis, a second-year student of Multiplatform Application Development (DAM). I have started my journey in software development.
 
 ## Skills
-- Programming Languages: Python, JavaScript, Dart
+- Programming Languages: Python, Dart
 - Frameworks and Libraries: Flutter, NestJs, Spring
 - Tools: Docker, Git, Odoo
 
