@@ -12,12 +12,6 @@ Hello! I am Jonathan Llopis, a second-year student of Multiplatform Application 
 - **Multiplatform Application Development (DAM)**, Current Student
 - **High School Diploma**, Completed
 
-## Work Experience
-- **Intern Developer**, Company XYZ, 2022-2023
-  - Developed and maintained web applications using NestJs and Flutter.
-  - Collaborated with a team to design and implement new features.
-  - Assisted in the deployment and monitoring of applications using Docker.
-
 ## My Projects
 - [**Roll&Reserve** (Docker - NestJs - Flutter)](https://github.com/Jonathan-Llopis/Roll_and_Reserve_Docker.git): My final project for the Multiplatform Application Development course. It is a reservation system that allows users to book and manage reservations for various services. Technologies used: Docker, NestJs, Flutter.
 - [**Zoo Management for Odoo** (Python)](https://github.com/Jonathan-Llopis/SGE_Addon_Proyecto.git): An Odoo module for managing zoos. It includes features for tracking animals, enclosures, and staff. Technologies used: Python, Odoo.
